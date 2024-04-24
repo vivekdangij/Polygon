@@ -1,6 +1,4 @@
-# Project Title
-
-Polygon Proof of Stake
+# Polygon Proof of Stake
 
 ## Description
 
@@ -72,7 +70,7 @@ node batchTransfer.js
 
 ## Author 
 
-Anandu Singh
+Vivek Dangi
 
 ## License
 
